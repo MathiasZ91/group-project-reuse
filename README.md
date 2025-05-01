@@ -1,6 +1,6 @@
 # Reuse - Sustainable Marketplace
 
-![Reuse Platform Screenshot](client/src/assets/images/screenshot.png)
+![Reuse Platform Screenshot](./Client/src/assets/images/screenshot.png)
 
 ## Description
 
