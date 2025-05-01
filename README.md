@@ -119,7 +119,7 @@ If you encounter dependency issues:
 
 ## License
 
-[MIT License](LICENSE)
+This project is currently not under any specific open source license and is intended for educational purposes only.
 
 ## Acknowledgments
 
